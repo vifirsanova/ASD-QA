@@ -7,8 +7,8 @@ Autism Spectrum Disorder QA (ASD QA) supports the inclusion of people with speci
 
 |Base model | F-Score |
 |-----------|---------|
-|Multilingual BERT | 0.55 |
-|774M GPT-2 | 0.63 |
+|[Multilingual BERT](https://github.com/google-research/bert/blob/master/multilingual.md) | 0.55 |
+|[774M GPT-2](https://github.com/openai/gpt-2) | 0.63 |
 
 ## Sample outputs (Russian)
 
