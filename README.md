@@ -9,3 +9,17 @@ Autism Spectrum Disorder QA (ASD QA) supports the inclusion of people with speci
 |-----------|---------|
 |Multilingual BERT | 0.55 |
 |774M GPT-2 | 0.63 |
+
+## Sample outputs (Russian)
+
+**BERT based model**
+
+**Q:** Каковы социальные черты синдрома Аспергера? 
+
+**A:** Некоторые люди полагают, что синдром Аспергера не более чем иной "способ мышления", то есть вариант нормы.
+
+**GPT-2 based model**
+
+**Q:** Отличается ли у аутистов мировосприятие? 
+
+**A:** Некоторые станут утверждать, что несомненно да.
